@@ -13,45 +13,10 @@ This is designed as a **research tool for blockchain enthusiasts and developers*
 - 🔍 **Contract Safety Check** — Integrates with blockchain scanners (Etherscan, BscScan, Solscan) to detect risks.
 - 💬 **Social Buzz Tracker** — Pulls Twitter/X mentions for hype analysis.
 - ⚙️ **Configurable Refresh Interval** — Automatically polls new tokens every few seconds.
-- 🧠 **Early Project Template** — Perfect for building your own meme coin intelligence dashboard.
 
 ---
 
-## 📦 Installation
 
-```bash
-# 1. Clone this repo
-git clone https://github.com/yourusername/memecoin-radar.git
-cd memecoin-radar
-
-# 2. Install dependencies
-npm install
-
-# 3. Run locally
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
----
-
-## ⚙️ Configuration
-
-Edit the following constants in `index.js` (or `app/page.jsx`):
-
-```js
-const DEX_API_URL = '/api/dex-new-pairs'
-const SCAN_API_URL = '/api/contract-scan'
-const TWITTER_API_URL = '/api/twitter-mentions'
-```
-
-You can replace these with real data sources:
-- 🔗 [Dexscreener API](https://docs.dexscreener.com/)
-- 🔗 [Birdeye API](https://docs.birdeye.so/)
-- 🔗 [Etherscan API](https://docs.etherscan.io/)
-- 🔗 [Twitter/X API](https://developer.x.com/en/docs)
-
----
 
 ## 🧰 Example Filters
 | Filter | Default | Description |
@@ -78,7 +43,7 @@ This tool is **for educational purposes only**. Always DYOR (Do Your Own Researc
 ---
 
 ## 🧑‍💻 Author
-**Paulot** — 3rd year IT student specializing in Blockchain Development.
+**Paul** — 3rd year IT student specializing in Blockchain Development.
 
 *“If it doesn’t feel right on-chain, it isn’t right off-chain either.”*
 
