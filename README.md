@@ -7,11 +7,28 @@ This is designed as a **research tool for blockchain enthusiasts and developers*
 ---
 
 ## 🚀 Features
+### 🧭 Core Scanning
 - 📊 **DEX Pair Scanner** — Fetches new pairs from APIs like Dexscreener or Birdeye.
-- 💧 **Filter by Liquidity & Volume** — Set your own thresholds to ignore low-quality launches.
-- 🔍 **Contract Safety Check** — Integrates with blockchain scanners (Etherscan, BscScan, Solscan) to detect risks.
-- 💬 **Social Buzz Tracker** — Pulls Twitter/X mentions for hype analysis.
-- ⚙️ **Configurable Refresh Interval** — Automatically polls new tokens every few seconds.
+- 💧 **Liquidity & Volume Filters** — Adjustable thresholds to screen quality launches.
+- ⏱️ **Real-Time Updates** — Auto-refreshes to catch coins right after deployment.
+- 🔍 **Multi-Chain Support** — Works with Ethereum, BSC, Solana, and Base.
+
+### 🧠 Analysis & Research Tools
+- 🛡️ **Smart Contract Safety Audit** — Scans for blacklist, mint, or ownership risks.
+- 🧾 **Holder Distribution Tracker** — Checks top wallet holdings & whale concentration.
+- 🧩 **Tax Analyzer** — Detects buy/sell tax rates to avoid honeytraps.
+- 📜 **Dev History Checker** — Uses blockchain explorers to detect reused wallets or rug histories.
+
+### 📢 Social & Market Sentiment
+- 💬 **Twitter/X Mentions Tracker** — Pulls real-time social buzz for trending tokens.
+- 📈 **Hype Momentum Score** — Combines volume, holder growth, and tweets for ranking.
+- 🧠 **Community Health Meter** — Detects spam or bot-heavy Telegram activity.
+
+  ### 🔔 Alerts & Integrations
+- 📢 **Discord/Telegram Alerts** — Get pings for new high-potential launches.
+- 📬 **Email Summaries** — Daily digest of top early meme coins.
+- 🔗 **Wallet Tracking** — Follow specific dev or influencer wallets across chains.
+- 💻 **Custom Webhooks** — Integrate alerts with your own trading scripts (non-automated).
 
 ---
 
