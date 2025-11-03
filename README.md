@@ -1,4 +1,3 @@
-# Meme-Coin-Radar
 # 🪙 MemeCoin Radar
 
 A **Next.js + React** web app that scans decentralized exchanges (DEXs) for **new meme coin listings**, filters them by liquidity and volume, and flags potential risks or early opportunities using contract safety checks and social buzz signals.
