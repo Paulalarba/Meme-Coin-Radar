@@ -24,15 +24,13 @@ This is designed as a **research tool for blockchain enthusiasts and developers*
 - 📈 **Hype Momentum Score** — Combines volume, holder growth, and tweets for ranking.
 - 🧠 **Community Health Meter** — Detects spam or bot-heavy Telegram activity.
 
-  ### 🔔 Alerts & Integrations
+### 🔔 Alerts & Integrations
 - 📢 **Discord/Telegram Alerts** — Get pings for new high-potential launches.
 - 📬 **Email Summaries** — Daily digest of top early meme coins.
 - 🔗 **Wallet Tracking** — Follow specific dev or influencer wallets across chains.
 - 💻 **Custom Webhooks** — Integrate alerts with your own trading scripts (non-automated).
 
 ---
-
-
 
 ## 🧰 Example Filters
 | Filter | Default | Description |
